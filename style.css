@@ -1,0 +1,192 @@
+
+
+
+
+/*start of header*/
+
+
+
+
+header{
+    background-color: #721679;
+}
+
+
+header{
+    padding:30px 15px 30px 15px;
+
+}
+
+
+header article img{
+    width : 100%;
+
+}
+
+header h1{
+    font-weight: 700;
+    font-family: 'Righteous', cursive;
+    margin-bottom: 0;
+}
+
+header h2{
+    margin-top: 0;
+}
+/*End of Header*/
+
+
+
+
+
+
+
+
+.navbar-primary .navbar-toggle{
+    background-image: url(newpurple.jpg);
+    min-height: 43px;
+    margin-top: 20px;
+    border-bottom-width: 4px;
+    position: relative;
+    z-index: 1000;
+    border: none;
+    border-radius: 0;
+    float : none;
+    margin :0;
+    text-transform : uppercase;
+    text-align: center;
+
+
+}
+
+
+
+
+.collapse{
+
+    width: 100%;
+    color: #f6fced;
+
+
+}
+
+
+
+
+
+.navbar-default{
+    font-size: 20px;
+    background-image: url(newpurple.jpg);
+
+    margin : 20px 0px 20px 0px;
+
+
+}
+
+
+
+
+
+.content-width {
+
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.container-fluid{
+
+    margin-right: -15px;
+    margin-left: -15px;
+
+}
+
+
+
+
+
+
+
+
+
+.content-width {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+* {
+    box-sizing : border-box;
+}
+
+
+
+
+
+
+.sr-only, .screen-reader-shortcut {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+* {
+    box-sizing: border-box;
+}
+
+
+
+/*Home Page - Experiment Styles*/
+
+
+
+main article img {
+    width : 100%;
+}
+
+#experimentImage{
+    margin: 6px 0 3px 0;
+    width: 100%;
+}
+
+
+/*End of Home Page - Experiment Styles*/
+
+/*Start of Footer*/
+
+
+
+footer section h3{
+    margin-top: 10px;
+}
+/*End of Footer*/
+
+.colRight {
+    width: 33%;
+    padding-right: 10%;
+    margin-top: 10px;
+    float: right;
+}
+
+footer {
+    height: 10px;
+    width: 100%;
+    margin-top: 20px;
+    position: static;
+    bottom: 0;
+    left: 0;
+    background: url("newpurple.jpg");
+    color: #f3fbff;
+    text-decoration: none;
+    list-style: none;
+    display: inline-table;
+    white-space: nowrap;
+}
+
+/*End of Footer*/
