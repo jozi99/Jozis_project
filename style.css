@@ -4,6 +4,8 @@
 
 /*start of header*/
 
+
+
 .panel-body{
     line-height: 0.8;
 }
@@ -155,7 +157,9 @@ main article img {
 #experimentImage{
     margin: 6px 0 3px 0;
     width: 100%;
+    line-height: 0.8;
 }
+
 
 
 /*End of Home Page - Experiment Styles*/
