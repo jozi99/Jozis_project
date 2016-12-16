@@ -4,9 +4,11 @@
 
 /*start of header*/
 
-
-
 .panel-body{
+    line-height: 0.8;
+}
+
+#panel-body{
     line-height: 0.8;
 }
 
