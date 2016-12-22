@@ -177,6 +177,12 @@ footer section h3{
 }
 /*End of Footer*/
 
+.colRight {
+    width: 100%;
+    padding-right: 10%;
+    margin-top: 10px;
+    float: left;
+}
 
 footer {
     height: 10px;
