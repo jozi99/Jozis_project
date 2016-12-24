@@ -4,6 +4,12 @@
 
 /*start of header*/
 
+.panel-body{
+    line-height: 0.8;
+}
+
+
+
 
 header{
     background-color: #721679;
